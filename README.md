@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm D0V4!
 
-- My Profile Views: <p align="left"> <img src="https://gpvc.arturio.dev/user" alt="D0V4" /> </p>
+- My Profile Views: <p align="left"> <img src="https://gpvc.arturio.dev/" alt="D0V4" /> </p>
 
 - 🔭 I’m currently working on 0V4!
 - 🌱 I’m currently learning Coding!
